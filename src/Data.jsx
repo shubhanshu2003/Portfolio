@@ -213,104 +213,104 @@ export const projects = [
 export const cv = [
   {
     id: 1,
-    title: 'CoderHouse Courses',
-    subtitle: 'Backend Programming',
-    date: '2014 - 2016',
+    title: 'Vellore Institute of Technology Bhopal',
+    subtitle: 'Computer Science and Engineering',
+    date: '2021 - 2025',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'I am currently pursuing my B.Tech in Computer Science and Technology at Vellore Institute of Technology, one of the leading technical universities in India. Throughout my academic journey, I have acquired a strong foundation in software engineering principles, algorithms, and data structures. I have honed my skills through various practical projects, particularly in web development, where I have gained hands-on experience in building responsive, user-centric websites and applications.',
     category: 'education',
   },
 
   {
     id: 2,
-    title: 'Lviv National Academy of Arts',
-    subtitle: 'Faculty of Design',
-    date: '2012 - 2014',
+    title: 'St Johns School(ICSE)',
+    subtitle: 'PCM + Computer Student',
+    date: '2021',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      ' I have studied PCM (Physics, Chemistry, Mathematics) alongside Computer Science at St. Johns School, I achieved 73% during that year—a solid performance reflecting my capability in both analytical and technical subjects. This foundational knowledge in core scientific and computational fields has paved the way for my continued growth and expertise, especially as I now pursue a career in Computer Science and Technology.',
     category: 'education',
   },
 
   {
     id: 3,
-    title: 'IT Future',
+    title: 'St Johns School(ICSE)',
     subtitle: 'High School',
-    date: '2010 - 2012',
+    date: '2019',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'I completed my high school education at St. Johns School, achieving a score of 72%. This period laid the groundwork for my academic journey, as I balanced core subjects like Physics, Chemistry, Mathematics, and Computer Science and many more . St. Johns School provided a strong foundation, fostering my interest in technology and science, which I have continued to build upon in your current pursuits.',
     category: 'education',
   },
 
   {
     id: 4,
-    title: 'UI Head & Manager',
-    subtitle: 'Soft Tech Inc.',
-    date: '2020 - PRESENT',
+    title: 'Software Engineer - Intern',
+    subtitle: 'Amatres Technologies Private Limited',
+    date: 'June 2024 - August 2024',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'At Amatres Technologies Private Limited, I worked as a web developer on a new project, where I gained valuable hands-on experience in web development. This role allowed me to collaborate with a dynamic team, honing my technical skills and contributing to a project that enhanced my understanding of web technologies and teamwork in a professional environment.',
     category: 'experience',
   },
 
   {
     id: 5,
-    title: 'UI / UX Specialist',
-    subtitle: 'Kana Design Studio',
-    date: '2018 - 2020',
+    title: 'Freelancer',
+    subtitle: 'Fiverr.com',
+    date: 'June 2024',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'With freelancing experience on the Fiverr platform, I have worked on a variety of projects, including Chrome extension development, web development, and debugging code. This hands-on experience has provided me  with real-world insight into working with clients, understanding their needs, and delivering solutions that meet their requirements. Managing these projects independently has sharpened my problem-solving abilities and enhanced my  communication skills, making me more adaptable to client expectations in a professional way.',
     category: 'experience',
   },
 
   {
     id: 6,
-    title: 'Plugins Developer',
-    subtitle: 'Fiverr.com',
-    date: '2016 - 2018',
+    title: 'Project Developement',
+    subtitle: 'Personal Projects',
+    date: '2022-ongoing',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'I have developed multiple projects as part of my learning journey, which has significantly expanded my knowledge in web development and related technologies. Each project has provided me with valuable hands-on experience, refining my skills and deepening my understanding of complex concepts. This accumulated expertise will undoubtedly prove beneficial in future endeavors, enabling me to approach new challenges with confidence and continue evolving as a developer.',
     category: 'experience',
   },
 ];
 
-export const testimonials = [
-  {
-    id: 1,
-    img: Testimonial1,
-    name: 'Barbara Wilson',
-    author: 'CEO Company',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    id: 2,
-    img: Testimonial2,
-    name: 'Charlie Smith',
-    author: 'Designer',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    id: 3,
-    img: Testimonial3,
-    name: 'Roy Wang',
-    author: 'Manager GYM',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    id: 4,
-    img: Testimonial4,
-    name: 'Jennifer Smith',
-    author: 'CEO & Founder',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    id: 5,
-    img: Testimonial5,
-    name: 'Paul Freeman',
-    author: 'Photographer',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-];
+// export const testimonials = [
+//   {
+//     id: 1,
+//     img: Testimonial1,
+//     name: 'Barbara Wilson',
+//     author: 'CEO Company',
+//     description:
+//       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+//   },
+//   {
+//     id: 2,
+//     img: Testimonial2,
+//     name: 'Charlie Smith',
+//     author: 'Designer',
+//     description:
+//       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+//   },
+//   {
+//     id: 3,
+//     img: Testimonial3,
+//     name: 'Roy Wang',
+//     author: 'Manager GYM',
+//     description:
+//       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+//   },
+//   {
+//     id: 4,
+//     img: Testimonial4,
+//     name: 'Jennifer Smith',
+//     author: 'CEO & Founder',
+//     description:
+//       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+//   },
+//   {
+//     id: 5,
+//     img: Testimonial5,
+//     name: 'Paul Freeman',
+//     author: 'Photographer',
+//     description:
+//       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+//   },
+// ];

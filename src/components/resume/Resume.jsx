@@ -15,7 +15,7 @@ export const Resume = () => {
 
             <div className="resume__container container grid">
                 <div className="resume__group">
-                    <h3 className="resume__heading">Education</h3>
+                    <h3 className="resume__heading">EDUCATION</h3>
                 
                     <div className="resume__items">
                         {cv.map((val,id)=>{
@@ -35,7 +35,7 @@ export const Resume = () => {
                 </div>
 
                 <div className="resume__group">
-                    <h3 className="resume__heading">Experience</h3>
+                    <h3 className="resume__heading">EXPERIENCE</h3>
                 
                     <div className="resume__items">
                         {cv.map((val,id)=>{

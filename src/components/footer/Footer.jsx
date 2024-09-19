@@ -26,11 +26,11 @@ function Footer ()  {
         </div>
 
         <p className="footer__copyright text-cs"> &copy; 2024
-            <span>Luique</span>All Rights Reserved
+            <span>PORTFOLIO</span>All Rights Reserved
         </p>
 
         <p className="footer__copyright text-cs">Developed by
-            <span>CrypticalCoder</span>
+            <span>SHUBHANSHUCHAUBEY</span>
         </p>
 
     </div>
