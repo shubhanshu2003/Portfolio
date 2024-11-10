@@ -233,9 +233,9 @@ export const projects = [
     id: 9,
     img: Project6,
     category: 'UI UX Design',
-    title: 'design',
+    title: 'Portfolio Design',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.',
+      'In my recent portfolio project, I focused on creating a polished and engaging UI/UX design using Figma. I applied a user-centric approach, ensuring intuitive navigation, a cohesive color palette, and streamlined layouts to enhance user engagement. Every design decision was crafted to highlight my skills in delivering visually appealing and highly functional interfaces. Figma’s features allowed me to prototype interactions and collaborate effectively, resulting in a responsive, aesthetically pleasing design that provides an enjoyable user experience while showcasing my expertise in design.',
   },
   {
     id: 10,
