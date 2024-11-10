@@ -4,7 +4,7 @@ import shapeOne from "../../assets/shape-1.png";
 import shapeTwo from "../../assets/shape-2.png";
 
 import {FaTwitter ,FaInstagram ,FaLinkedinIn ,FaGithub} from 'react-icons/fa';
-import CV from "../../assets/Shubhanshu-Chaubey-Resume.pdf"
+import CV from "../../assets/shubhanshu_chaubey_resume.pdf"
 import './home.css'; 
 const home = () => {
   return (
@@ -29,7 +29,7 @@ const home = () => {
 
             <p className="home__data home__data-one">
                <span className="text-lg">
-                2<b>+</b>
+                6<b>+</b>
                 </span> 
 
                 <span className="text-sm text-cs">
@@ -56,7 +56,7 @@ const home = () => {
         
         </div>
         
-        <p className="home__text"> Who loves working with Java and web technologies like ReactJS, ExpressJS, JavaScript, SQL and manymore. I enjoy building apps that are both functional and easy to use. During my time as an intern at Amatres Technologies, I got to help develop their website, which was a great learning experience. I’m always excited to pick up new skills and stay updated with the latest tech trends.</p>
+        <p className="home__text">Who love to work with Java and web technologies like ReactJS, ExpressJS, JavaScript, PostgreSQL, and much more. I enjoy building applications that are functional and user-friendly. While at Amatres Technologies, during my time as an intern, I contributed in building website, which is a great learning experience in itself. I am always enthusiastic about picking up new skills and keeping myself updated on current tech trends. </p>
         
         <div className="home__socials">
             <a href="https://x.com/Shubhan39443298" className="home__social-link" target='_blank'>

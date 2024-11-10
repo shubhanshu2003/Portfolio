@@ -10,7 +10,7 @@
 }
 
 .home__wrapper{
-    min-height: 110vh;
+    min-height: 120vh;
     display: grid;
     align-items: center;
 }
@@ -93,7 +93,7 @@
 .home__img-wrapper{
     position:absolute;
     top: 0;
-    right: 12px;
+    right: -70px;
     transform: translateY(-6%);
     width: 100%;
     max-width: 680px;

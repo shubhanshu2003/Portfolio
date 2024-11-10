@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "web development",
+			"path": "../../../web development"
+		},
+		{
+			"name": "Chrome Extension",
+			"path": "../../../Chrome Extension"
+		},
+		{
+			"name": "fiverr",
+			"path": "../../../fiverr"
+		},
+		{
+			"name": "Projects",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Chrome Extension"
+	}
+}
